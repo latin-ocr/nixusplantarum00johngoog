@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./nixusplantarum00johngoog_0008.png"; bbox 0 0 3076 5002; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 325 1052 1188 1156">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 325 1052 1188 1156">
+     <span class='ocr_line' id='line_1_1' title="bbox 325 1052 1188 1156; baseline -0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 325 1052 589 1156; x_wconf 90' lang='lat' dir='ltr'>NIXUS</span> <span class='ocrx_word' id='word_1_2' title='bbox 639 1053 1188 1156; x_wconf 87' lang='lat' dir='ltr'><strong>PLANTARUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 404 2183 1053 2288">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 404 2183 1053 2288">
+     <span class='ocr_line' id='line_1_2' title="bbox 404 2183 1053 2288; baseline 0.003 -20"><span class='ocrx_word' id='word_1_3' title='bbox 404 2183 701 2268; x_wconf 87' lang='lat' dir='ltr'><strong>JOHANNI</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 741 2184 1053 2288; x_wconf 88' lang='lat' dir='ltr'><strong>LINDLEY,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 392 3637 1075 3865">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 392 3637 1075 3865">
+     <span class='ocr_line' id='line_1_3' title="bbox 612 3637 860 3703; baseline -0.004 -1"><span class='ocrx_word' id='word_1_5' title='bbox 612 3637 860 3703; x_wconf 88' lang='lat' dir='ltr'><strong>LONDINI:</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 392 3802 1075 3865; baseline -0.003 -3"><span class='ocrx_word' id='word_1_6' title='bbox 392 3804 523 3865; x_wconf 91' lang='lat' dir='ltr'>APUD</span> <span class='ocrx_word' id='word_1_7' title='bbox 555 3803 789 3863; x_wconf 89' lang='lat' dir='ltr'>RIDGWAY</span> <span class='ocrx_word' id='word_1_8' title='bbox 819 3803 878 3861; x_wconf 88' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 908 3802 1075 3861; x_wconf 85' lang='lat' dir='ltr'><strong>FILIOS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 667 3951 808 3962">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 667 3951 808 3962">
+     <span class='ocr_line' id='line_1_5' title="bbox 667 3951 808 3962; baseline 0.007 -1"><span class='ocrx_word' id='word_1_10' title='bbox 667 3951 808 3962; x_wconf 58' lang='grc' dir='ltr'>’.ι-...ειμ-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 686 4041 905 4107">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 686 4041 905 4107">
+     <span class='ocr_line' id='line_1_6' title="bbox 686 4041 905 4107; baseline -0.014 0"><span class='ocrx_word' id='word_1_11' title='bbox 686 4041 793 4107; x_wconf 88' lang='grc'><strong>1833.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 901 4075 905 4082; x_wconf 86' lang='grc'><em>·</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1542 5002">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1542 5002">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1542 5002; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1542 5002; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
